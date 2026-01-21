@@ -7,10 +7,6 @@ I'm **Vyshali Poola**, a Master's student in **Business Analytics**.  I love wor
 🔹 Passionate about **Data Warehousing, Business Intelligence, and Forecasting**  
 🔹 Skilled in **SQL, Python, R, SAS, Tableau, Power BI, SSMS, SSIS**  
 
-### Current Projects  
-- ** Credit Risk Analysis Data Warehouse** → Python, ETL, Fraud Detection, BI Dashboards  
-- ** Tourism Forecasting Project** → Time Series Analysis, SAS Analytics  
-
 ###  Learning & Growing  
 - Advanced **Machine Learning & Predictive Analytics**  
 - Big Data Tools (Hadoop, Spark)  
