@@ -4,6 +4,7 @@ I'm **Vyshali Poola**, a Master's student in **Business Analytics**.  I love wor
 
 ### About Me  
 🔹 Master's in **Business Analytics** | **Oakland University** (Expected Winter 2026)  
+🔹 Actively seeking **full-time roles** in **Data Analytics, Business Intelligence, Project Controls, and Business Analysis**
 🔹 Passionate about **Data Warehousing, Business Intelligence, and Forecasting**  
 🔹 Skilled in **SQL, Python, R, SAS, Tableau, Power BI, SSMS, SSIS**  
 
