@@ -17,7 +17,8 @@ I'm **Vyshali Poola**, a Master's student in **Business Analytics**.  I love wor
 ###  Learning & Growing  
 - Advanced **Machine Learning & Predictive Analytics**  
 - Big Data Tools (Hadoop, Spark)
-- SQL Optimization & Complex Queries  
+- SQL Optimization & Complex Queries
+- Data Visualization & Storytelling (Power BI, Tableau)
 
 ###  Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vyshali-poola-212a0878/)  
